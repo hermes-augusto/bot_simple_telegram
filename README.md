@@ -9,4 +9,13 @@
 > * clik in API development tools
 > * Fill fields about app
 > * After that get api_id and api_hash
-> 
+> * change in file config.ini
+> * ![image](https://user-images.githubusercontent.com/34031758/120412100-565f5e00-c32c-11eb-9dc7-1e8efc16c531.png)
+> * In file listen_send change this part
+>  ![image](https://user-images.githubusercontent.com/34031758/120412250-9d4d5380-c32c-11eb-9a29-931beedc5108.png)
+> * Frist time when run you nee to put your phone to validate
+> * ![image](https://user-images.githubusercontent.com/34031758/120412453-fa490980-c32c-11eb-9119-9a743d8f9a96.png)
+#### FINISH
+
+
+
